@@ -73,8 +73,6 @@ static const int blacklisted_adapters[] = {
 	0x1140, // GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]
 	0x0fed, // GK107M [GeForce 820M]
 	0x1340, // GM108M [GeForce 830M]
-	0x1393, // GM107M [GeForce 840M]
-	0x1341, // GM108M [GeForce 840M]
 	0x1398, // GM107M [GeForce 845M]
 	0x1390, // GM107M [GeForce 845M]
 	0x1344, // GM108M [GeForce 845M]
